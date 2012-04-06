@@ -16,6 +16,7 @@ require "#{lib_path}/google_visualr/formatters"
 ## Main
 require "#{lib_path}/google_visualr/interactive/area_chart"
 require "#{lib_path}/google_visualr/interactive/bar_chart"
+require "#{lib_path}/google_visualr/interactive/bubble_chart"
 require "#{lib_path}/google_visualr/interactive/candlestick_chart"
 require "#{lib_path}/google_visualr/interactive/column_chart"
 require "#{lib_path}/google_visualr/interactive/combo_chart"
